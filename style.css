@@ -109,7 +109,7 @@ nav ul li :hover{
         padding: 15px;
     }
     #about{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 }
 @media screen and (max-width: 420px) {
