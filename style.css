@@ -96,6 +96,16 @@ nav ul li :hover{
 
     nav a {
         margin: 0 10px;
+        font-size: 15px;
+    }
+    nav ul li :hover{
+        background-color: white;
+        color: black;
+        width: 80px;
+        text-align: center;
+        transition: 500ms ease-in-out;
+        padding: 5px;
+        border-radius: 10px;
     }
 
     .image img {
